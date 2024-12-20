@@ -368,3 +368,244 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Dec2024 18:44:13.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Bloodthirsty]
 [20Dec2024 18:44:45.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Macaroniwhatnow?]
 [20Dec2024 18:47:04.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! 8.359981683746526,-2.4554677395850177,5.437153476834704
+[20Dec2024 18:47:06.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved wrongly!
+[20Dec2024 18:47:41.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Sweet Dreams]
+[20Dec2024 18:47:55.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Monster Hunter]
+[20Dec2024 18:48:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA has made the advancement [Sweet Dreams]
+[20Dec2024 18:48:07.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> duerman
+[20Dec2024 18:49:25.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA has made the advancement [My First Pickaxe]
+[20Dec2024 18:49:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was slain by Spider
+[20Dec2024 18:49:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [My First Pickaxe]
+[20Dec2024 18:50:13.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was shot by Skeleton
+[20Dec2024 18:50:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA has made the advancement [Stone Age]
+[20Dec2024 18:50:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was shot by Mutant Skeleton
+[20Dec2024 18:51:18.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Safe Haven]
+[20Dec2024 18:51:27.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Sweet Dreams]
+[20Dec2024 18:51:43.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> zzzzzzz
+[20Dec2024 18:51:49.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
+[20Dec2024 18:51:49.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[20Dec2024 18:52:08.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 18:52:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 18:52:18.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:48345] logged in with entity id 30615 at (357.5330363607665, 72.0, -8.18642182872266)
+[20Dec2024 18:52:18.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 18:52:18.092] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 18:52:24.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 18:52:24.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 18:52:27.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Call For Adventure]
+[20Dec2024 18:52:29.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:40163] logged in with entity id 30846 at (366.19132946561894, 72.25220334025373, -1.9542623009675057)
+[20Dec2024 18:52:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 18:52:29.245] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 18:52:31.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 18:52:31.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 18:52:36.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:51863] logged in with entity id 31063 at (93.69533396411795, 70.0, -65.39355729322199)
+[20Dec2024 18:52:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[20Dec2024 18:52:36.863] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[20Dec2024 18:52:47.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:59801] logged in with entity id 31186 at (366.19132946561894, 72.25220334025373, -1.9542623009675057)
+[20Dec2024 18:52:47.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 18:52:47.556] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 18:52:48.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Acquire Hardware]
+[20Dec2024 18:53:17.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was shot by Skeleton
+[20Dec2024 18:54:32.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 18:54:32.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 18:54:47.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b90fa2[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:44327) lost connection: Disconnected
+[20Dec2024 18:54:58.425] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31555b46[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:33257) lost connection: Disconnected
+[20Dec2024 18:55:02.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:54933] logged in with entity id 33648 at (671.8092429019526, 68.16610926093821, 143.23917601896574)
+[20Dec2024 18:55:02.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 18:55:02.149] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 18:55:05.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 18:55:05.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 18:55:10.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:57141] logged in with entity id 34071 at (671.8092429019526, 68.0, 143.23917601896574)
+[20Dec2024 18:55:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 18:55:10.493] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 18:57:42.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA fell from a high place
+[20Dec2024 19:00:15.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe drowned
+[20Dec2024 19:01:36.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Isn't It Iron Pick]
+[20Dec2024 19:02:28.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was doomed to fall by Zombie
+[20Dec2024 19:03:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Stone Age]
+[20Dec2024 19:03:24.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
+[20Dec2024 19:03:24.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[20Dec2024 19:04:13.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44d5b42[id=<null>,name=MaurossjFLAMA,properties={},legacy=false] (/127.56.87.190:56249) lost connection: Disconnected
+[20Dec2024 19:04:19.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:47553] logged in with entity id 44988 at (-52.69999998807907, 81.0, 28.30000001192093)
+[20Dec2024 19:04:19.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[20Dec2024 19:04:19.671] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[20Dec2024 19:04:44.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 19:04:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 19:05:42.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:59389] logged in with entity id 46190 at (1155.1608583037466, 68.7531999805212, -13.241328220740218)
+[20Dec2024 19:05:42.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 19:05:42.189] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 19:07:04.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA has made the advancement [Macaroniwhatnow?]
+[20Dec2024 19:09:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Getting a Better Upgrade]
+[20Dec2024 19:10:59.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was shot by Skeleton
+[20Dec2024 19:11:05.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was shot by Skeleton
+[20Dec2024 19:11:57.734] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:12:20.327] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:12:45.338] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:12:56.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was shot by Mutant Skeleton
+[20Dec2024 19:13:00.789] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:13:02.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Getting a Better Upgrade]
+[20Dec2024 19:14:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Macaroniwhatnow?]
+[20Dec2024 19:14:29.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:29.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:30.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:30.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:30.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[20Dec2024 19:14:32.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:32.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:32.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:33.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:33.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:33.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:34.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:34.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:35.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:35.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:35.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:36.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzzz
+[20Dec2024 19:14:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:36.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:37.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:37.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:37.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:37.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:38.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:38.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:38.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:38.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:38.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:39.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:39.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:40.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:40.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:40.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:40.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:41.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:41.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:41.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:41.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:41.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:42.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzz
+[20Dec2024 19:14:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:42.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:43.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:44.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:44.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:44.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:44.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
+[20Dec2024 19:14:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:45.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzzz
+[20Dec2024 19:14:45.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzz
+[20Dec2024 19:14:46.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[20Dec2024 19:14:50.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Kicked MaurossjFLAMA: Kicked by an operator]
+[20Dec2024 19:14:50.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Kicked by an operator
+[20Dec2024 19:14:50.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[20Dec2024 19:15:08.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:59159] logged in with entity id 54424 at (-17.324060421153238, 69.0, -82.04353830299695)
+[20Dec2024 19:15:08.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[20Dec2024 19:15:08.417] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[20Dec2024 19:16:16.001] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:16:57.643] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:16:57.894] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:17:08.472] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:17:12.256] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:18:05.649] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:19:08.383] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:19:09.810] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:19:11.094] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:20:38.698] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:21:37.519] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:21:40.652] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[20Dec2024 19:23:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was doomed to fall by Iron Golem
+[20Dec2024 19:24:02.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 19:24:02.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 19:24:07.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:47985] logged in with entity id 63689 at (2964.648929535964, 71.00133597911214, 129.8966342072683)
+[20Dec2024 19:24:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 19:24:07.746] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 19:24:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> ./activate xray
+[20Dec2024 19:25:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Reloading!]
+[20Dec2024 19:25:07.970] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
+	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_287964_(ReloadCommand.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20Dec2024 19:25:07.982] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[20Dec2024 19:25:08.075] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1492 advancements
+[20Dec2024 19:25:08.082] [Server thread/INFO] [Dungeon Crawl/]: Loading data...
+[20Dec2024 19:25:08.377] [Server thread/INFO] [Dungeon Crawl/]: Done.
+[20Dec2024 19:25:08.450] [Server thread/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 3 milliseconds
+[20Dec2024 19:25:08.452] [Server thread/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[20Dec2024 19:25:09.059] [Server thread/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[20Dec2024 19:25:22.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 19:25:22.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 19:25:29.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT lost connection: Disconnected
+[20Dec2024 19:25:29.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT left the game
+[20Dec2024 19:25:42.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> zzz
+[20Dec2024 19:25:48.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.211.96.2:48741] logged in with entity id 65313 at (-747.3000000119209, 53.0, 222.84804161764714)
+[20Dec2024 19:25:48.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
+[20Dec2024 19:25:48.081] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
+[20Dec2024 19:25:49.215] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e036be8[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:48681) lost connection: Disconnected
+[20Dec2024 19:26:00.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56589] logged in with entity id 65851 at (3135.210254236806, 64.0, 138.2504603195612)
+[20Dec2024 19:26:00.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 19:26:00.515] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[20Dec2024 19:26:03.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[20Dec2024 19:26:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[20Dec2024 19:26:31.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56067] logged in with entity id 66278 at (3135.210254236806, 64.0, 138.2504603195612)
+[20Dec2024 19:26:31.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[20Dec2024 19:26:31.242] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
