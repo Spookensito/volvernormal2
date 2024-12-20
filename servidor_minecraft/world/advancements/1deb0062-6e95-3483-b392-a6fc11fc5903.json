@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-20 19:37:44 +0000",
       "minecraft:river": "2024-12-20 18:17:46 +0000",
       "minecraft:snowy_plains": "2024-12-20 19:22:18 +0000",
       "minecraft:forest": "2024-12-20 18:23:15 +0000",
@@ -884,12 +885,6 @@
     },
     "done": true
   },
-  "notreepunching:plant_fiber_from_wheat_with_knife": {
-    "criteria": {
-      "has_item": "2024-12-20 19:23:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2024-12-20 19:15:58 +0000"
@@ -902,9 +897,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "notreepunching:granite_cobblestone_from_rocks": {
     "criteria": {
-      "has_log": "2024-12-20 19:25:06 +0000"
+      "has_item": "2024-12-20 19:22:42 +0000"
     },
     "done": true
   },
@@ -914,21 +909,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-20 19:23:25 +0000"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_wheat_with_knife": {
+    "criteria": {
+      "has_item": "2024-12-20 19:23:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-20 19:23:39 +0000"
-    },
-    "done": true
-  },
-  "notreepunching:granite_cobblestone_from_rocks": {
-    "criteria": {
-      "has_item": "2024-12-20 19:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-20 19:25:06 +0000"
     },
     "done": true
   },
@@ -938,9 +933,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_hay_block": "2024-12-20 19:23:25 +0000"
+      "has_log": "2024-12-20 19:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-20 19:25:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-20 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-20 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-20 19:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-20 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-20 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-20 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-20 19:33:04 +0000"
     },
     "done": true
   },
