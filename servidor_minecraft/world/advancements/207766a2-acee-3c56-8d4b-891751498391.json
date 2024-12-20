@@ -734,6 +734,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-20 19:49:29 +0000",
+      "cooked_mutton": "2024-12-20 21:09:37 +0000",
       "cooked_beef": "2024-12-20 18:49:54 +0000"
     },
     "done": false
@@ -1443,6 +1444,18 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 20:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 20:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-20 21:01:10 +0000"
     },
     "done": true
   },
