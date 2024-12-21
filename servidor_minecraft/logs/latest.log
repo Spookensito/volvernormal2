@@ -232,3 +232,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [21Dec2024 20:36:05.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
 [21Dec2024 20:36:05.606] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
 [21Dec2024 20:36:46.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT tried to swim in lava
+[21Dec2024 20:43:55.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13406, l='ServerLevel[world]', x=779.91, y=63.00, z=134.91] died, message: 'Unemployed bled to death'
+[21Dec2024 20:44:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Bloodthirsty]
+[21Dec2024 20:48:31.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [The Parrots and the Bats]
