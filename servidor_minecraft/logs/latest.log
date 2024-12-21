@@ -235,3 +235,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [21Dec2024 20:43:55.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13406, l='ServerLevel[world]', x=779.91, y=63.00, z=134.91] died, message: 'Unemployed bled to death'
 [21Dec2024 20:44:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Bloodthirsty]
 [21Dec2024 20:48:31.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [The Parrots and the Bats]
+[21Dec2024 20:58:18.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was shot by Skeleton
+[21Dec2024 21:01:35.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was shot by Skeleton
