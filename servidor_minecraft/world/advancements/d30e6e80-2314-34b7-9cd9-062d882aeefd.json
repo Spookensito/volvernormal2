@@ -26,7 +26,9 @@
       "minecraft:cold_ocean": "2024-12-20 19:15:23 +0000",
       "minecraft:forest": "2024-12-20 18:24:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 20:36:13 +0000",
+      "minecraft:flower_forest": "2024-12-21 18:51:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-20 19:23:44 +0000",
+      "minecraft:meadow": "2024-12-20 21:29:45 +0000",
       "minecraft:plains": "2024-12-20 18:08:49 +0000"
     },
     "done": false
@@ -720,6 +722,7 @@
       "cooked_mutton": "2024-12-20 20:03:34 +0000",
       "cooked_beef": "2024-12-20 19:33:53 +0000",
       "apple": "2024-12-20 18:37:59 +0000",
+      "pumpkin_pie": "2024-12-21 19:40:52 +0000",
       "bread": "2024-12-20 18:56:58 +0000",
       "rotten_flesh": "2024-12-20 20:38:21 +0000"
     },
@@ -1532,6 +1535,132 @@
   "notreepunching:story/fire_pottery": {
     "criteria": {
       "has_ceramics": "2024-12-20 21:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-20 21:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-20 21:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-20 21:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-20 21:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-21 18:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-21 18:28:03 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2024-12-21 18:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-21 19:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 19:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 19:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-21 19:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-21 19:20:08 +0000"
     },
     "done": true
   },
