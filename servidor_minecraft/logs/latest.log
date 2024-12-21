@@ -237,3 +237,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [21Dec2024 20:48:31.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [The Parrots and the Bats]
 [21Dec2024 20:58:18.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was shot by Skeleton
 [21Dec2024 21:01:35.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was shot by Skeleton
+[21Dec2024 21:23:30.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 9.197161369935657,1.0625,-3.7906346148128023
