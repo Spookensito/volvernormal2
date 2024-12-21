@@ -1219,6 +1219,7 @@
       "minecraft:pillager": "2024-12-21 17:50:15 +0000",
       "minecraft:skeleton": "2024-12-20 18:47:55 +0000",
       "minecraft:creeper": "2024-12-21 18:27:25 +0000",
+      "minecraft:husk": "2024-12-21 23:45:15 +0000",
       "minecraft:enderman": "2024-12-21 18:44:55 +0000",
       "minecraft:stray": "2024-12-21 19:08:00 +0000",
       "minecraft:zombie": "2024-12-20 18:49:10 +0000",
@@ -2012,6 +2013,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-21 23:04:27 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_charcoal": "2024-12-21 23:05:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-21 23:13:26 +0000"
@@ -2021,12 +2034,6 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-21 23:13:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-21 23:04:27 +0000"
     },
     "done": true
   },
@@ -2042,9 +2049,9 @@
     },
     "done": true
   },
-  "toughasnails:recipes/decorations/water_purifier": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_charcoal": "2024-12-21 23:05:27 +0000"
+      "has_pointed_dripstone": "2024-12-21 23:53:29 +0000"
     },
     "done": true
   },
