@@ -737,3 +737,54 @@ java.lang.IllegalArgumentException: Player literal{Tycyone1} does not have Capab
 [21Dec2024 23:15:38.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was shot by Skeleton
 [21Dec2024 23:15:49.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
 [21Dec2024 23:15:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[21Dec2024 23:16:22.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:42235] logged in with entity id 25593 at (291.39668284374585, 5.0, -380.169496187838)
+[21Dec2024 23:16:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[21Dec2024 23:16:22.557] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[21Dec2024 23:16:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was shot by Skeleton
+[21Dec2024 23:18:39.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved too quickly! -3.637345071502523,-3.1102269570478214,8.850939633366238
+[21Dec2024 23:19:04.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved too quickly! 1.4825778107996825,1.130906499714527,9.943013596913204
+[21Dec2024 23:19:25.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Iron Golem
+[21Dec2024 23:19:31.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[21Dec2024 23:19:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[21Dec2024 23:19:44.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:59405] logged in with entity id 27723 at (277.10785945717225, 64.0, -246.1997094718662)
+[21Dec2024 23:19:44.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[21Dec2024 23:19:44.409] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[21Dec2024 23:23:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[21Dec2024 23:23:14.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tycyone1'/27976, l='ServerLevel[world]', x=276.70, y=3.00, z=-393.30] died: Tycyone1 was slain by Tycyone1
+[21Dec2024 23:26:38.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[21Dec2024 23:26:39.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[21Dec2024 23:26:39.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[21Dec2024 23:27:15.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: You logged in from another location
+[21Dec2024 23:27:15.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[21Dec2024 23:27:15.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:43847] logged in with entity id 31013 at (273.7366062862811, 3.0, -393.3957532412755)
+[21Dec2024 23:27:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[21Dec2024 23:27:15.149] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[21Dec2024 23:27:21.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[21Dec2024 23:27:21.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[21Dec2024 23:27:31.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:56077] logged in with entity id 31079 at (273.7366062862811, 3.0, -393.3957532412755)
+[21Dec2024 23:27:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[21Dec2024 23:27:31.458] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[21Dec2024 23:28:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was shot by Skeleton
+[21Dec2024 23:28:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was shot by Skeleton
+[21Dec2024 23:28:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was shot by Skeleton
+[21Dec2024 23:29:03.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[21Dec2024 23:29:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[21Dec2024 23:29:31.141] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3abf8bca[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:55205) lost connection: Disconnected
+[21Dec2024 23:29:41.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:57045] logged in with entity id 32935 at (281.63758257859547, 5.7531999805212015, -380.4322582521728)
+[21Dec2024 23:29:41.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[21Dec2024 23:29:41.107] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[21Dec2024 23:29:47.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[21Dec2024 23:29:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[21Dec2024 23:29:47.244] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 23:29:58.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:48751] logged in with entity id 33332 at (281.63758257859547, 5.0, -380.4322582521728)
+[21Dec2024 23:29:58.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[21Dec2024 23:29:58.322] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[21Dec2024 23:31:38.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved too quickly! -0.49924040031334016,0.0,10.21084602533466
+[21Dec2024 23:35:48.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[21Dec2024 23:35:48.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[21Dec2024 23:35:52.943] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7565a466[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:57161) lost connection: Disconnected
+[21Dec2024 23:36:05.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:53487] logged in with entity id 35675 at (273.27367147708725, 3.0, -393.3329411760875)
+[21Dec2024 23:36:05.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[21Dec2024 23:36:05.710] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[21Dec2024 23:36:11.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[21Dec2024 23:36:11.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
