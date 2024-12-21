@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-21 23:15:12 +0000",
       "minecraft:taiga": "2024-12-20 19:26:47 +0000",
       "minecraft:frozen_river": "2024-12-20 20:13:25 +0000",
       "minecraft:river": "2024-12-20 19:26:23 +0000",
@@ -1387,6 +1388,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-21 22:38:05 +0000",
+      "minecraft:husk": "2024-12-21 23:07:09 +0000",
+      "minecraft:stray": "2024-12-21 23:09:07 +0000",
       "minecraft:zombie": "2024-12-20 20:13:54 +0000"
     },
     "done": false
@@ -1955,12 +1958,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-21 22:46:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2024-12-21 22:45:45 +0000"
@@ -1982,6 +1979,24 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2024-12-21 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-21 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 22:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 22:56:11 +0000"
     },
     "done": true
   },
