@@ -3591,3 +3591,12 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [21Dec2024 19:43:36.916] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [21Dec2024 19:44:18.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 19:44:18.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 19:49:18.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 19:49:18.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 19:54:18.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 19:54:18.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 19:55:54.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> -1171 -318
+[21Dec2024 19:57:25.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has reached the goal [Who built this?]
+[21Dec2024 19:58:19.883] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Dec2024 19:59:07.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[21Dec2024 19:59:07.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game

@@ -186,3 +186,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [21Dec2024 19:43:36.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:41633] logged in with entity id 1271 at (-1265.167260266724, 108.0, -385.60176929237923)
 [21Dec2024 19:43:36.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [21Dec2024 19:43:36.916] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[21Dec2024 19:55:54.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> -1171 -318
+[21Dec2024 19:57:25.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has reached the goal [Who built this?]
+[21Dec2024 19:59:07.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[21Dec2024 19:59:07.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
