@@ -738,6 +738,7 @@
       "cooked_porkchop": "2024-12-20 19:49:29 +0000",
       "cooked_mutton": "2024-12-20 21:09:37 +0000",
       "cooked_beef": "2024-12-20 18:49:54 +0000",
+      "rotten_flesh": "2024-12-22 00:10:33 +0000",
       "salmon": "2024-12-20 21:23:50 +0000",
       "cooked_salmon": "2024-12-20 21:26:11 +0000"
     },
@@ -2009,6 +2010,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-21 23:45:20 +0000"
+    },
+    "done": true
+  },
+  "notreepunching:leather_from_leggings_with_knife": {
+    "criteria": {
+      "has_item": "2024-12-22 00:12:48 +0000"
     },
     "done": true
   },
