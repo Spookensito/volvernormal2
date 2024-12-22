@@ -2288,15 +2288,15 @@
     },
     "done": true
   },
-  "majruszsdifficulty:undead_army_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2024-12-22 15:57:08 +0000"
-    },
-    "done": true
-  },
   "majruszsdifficulty:undead_army": {
     "criteria": {
       "army_defeated": "2024-12-22 15:57:02 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-22 15:57:08 +0000"
     },
     "done": true
   },

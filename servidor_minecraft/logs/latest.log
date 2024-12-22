@@ -763,3 +763,68 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [22Dec2024 16:01:55.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT lost connection: Disconnected
 [22Dec2024 16:01:55.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT left the game
 [22Dec2024 16:02:08.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b06f044[id=<null>,name=Spooken_YT,properties={},legacy=false] (/127.211.96.2:59525) lost connection: Disconnected
+[22Dec2024 16:09:26.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:49635] logged in with entity id 102167 at (-788.2829578998244, 130.0, -302.44156514451004)
+[22Dec2024 16:09:26.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[22Dec2024 16:09:26.574] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[22Dec2024 16:09:45.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[22Dec2024 16:09:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[22Dec2024 16:11:09.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[22Dec2024 16:11:09.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[22Dec2024 16:11:20.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:43421] logged in with entity id 102798 at (-796.8013356243699, 127.05879684053919, -283.7245336276102)
+[22Dec2024 16:11:20.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[22Dec2024 16:11:20.011] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[22Dec2024 16:11:21.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[22Dec2024 16:11:21.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[22Dec2024 16:11:32.596] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78982a09[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:58515) lost connection: Disconnected
+[22Dec2024 16:11:39.595] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e5c60b9[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:59227) lost connection: Disconnected
+[22Dec2024 16:11:42.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:35107] logged in with entity id 103051 at (-1276.762499988079, 110.0, -399.2522572422469)
+[22Dec2024 16:11:42.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[22Dec2024 16:11:42.358] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[22Dec2024 16:11:47.452] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79885345[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:56727) lost connection: Disconnected
+[22Dec2024 16:11:50.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[22Dec2024 16:11:50.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[22Dec2024 16:11:58.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c23fac0[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:42337) lost connection: Disconnected
+[22Dec2024 16:12:13.695] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7073231d[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:34789) lost connection: Disconnected
+[22Dec2024 16:12:15.845] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33a12c8b[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:46187) lost connection: Disconnected
+[22Dec2024 16:12:19.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:39771] logged in with entity id 103302 at (-796.8013356243699, 127.05879684053919, -283.7245336276102)
+[22Dec2024 16:12:19.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[22Dec2024 16:12:19.460] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[22Dec2024 16:12:38.505] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56d81a26[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:53625) lost connection: Disconnected
+[22Dec2024 16:12:42.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:46517] logged in with entity id 103695 at (-1276.762499988079, 110.0, -399.2522572422469)
+[22Dec2024 16:12:42.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[22Dec2024 16:12:42.129] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[22Dec2024 16:13:03.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[22Dec2024 16:13:03.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[22Dec2024 16:13:08.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:46061] logged in with entity id 104058 at (-1276.4117267309668, 110.0, -400.51249998807907)
+[22Dec2024 16:13:08.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[22Dec2024 16:13:08.573] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[22Dec2024 16:13:33.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Iron Golem
+[22Dec2024 16:13:36.009] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Dec2024 16:13:36.009] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Dec2024 16:14:33.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Iron Golem
+[22Dec2024 16:14:36.539] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Dec2024 16:14:36.539] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[22Dec2024 16:14:41.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[22Dec2024 16:14:41.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[22Dec2024 16:14:55.058] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cd30d1a[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:49539) lost connection: Disconnected
+[22Dec2024 16:15:01.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:55445] logged in with entity id 105469 at (-787.7655100305362, 132.0, -297.8676583856255)
+[22Dec2024 16:15:01.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[22Dec2024 16:15:01.468] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[22Dec2024 16:15:07.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[22Dec2024 16:15:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[22Dec2024 16:15:14.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:40885] logged in with entity id 105851 at (-783.6663880438725, 131.0625, -297.94925786916093)
+[22Dec2024 16:15:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[22Dec2024 16:15:14.868] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[22Dec2024 16:17:36.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[22Dec2024 16:17:36.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[22Dec2024 16:24:40.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[22Dec2024 16:24:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[22Dec2024 16:24:49.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:51721] logged in with entity id 109412 at (-1352.1634306862109, 93.24918707874468, -461.313492116099)
+[22Dec2024 16:24:49.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[22Dec2024 16:24:49.861] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[22Dec2024 16:24:56.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[22Dec2024 16:24:56.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[22Dec2024 16:25:10.396] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@311df911[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:56015) lost connection: Disconnected
+[22Dec2024 16:25:16.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:47731] logged in with entity id 109740 at (-1355.1534208227795, 92.0, -461.5953157431787)
+[22Dec2024 16:25:16.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[22Dec2024 16:25:16.612] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
