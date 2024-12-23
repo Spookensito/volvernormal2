@@ -1,27 +1,32 @@
-[22Dec2024 18:48:31.362] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[22Dec2024 18:48:31.367] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[22Dec2024 18:48:32.370] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Dec2024 18:48:32.383] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
-[22Dec2024 18:48:32.414] [main/INFO] [mixin-transmog/]: crimes against java were committed
-[22Dec2024 18:48:32.441] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
-[22Dec2024 18:48:32.497] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/volvernormal2/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23133%23136!/ Service=ModLauncher Env=SERVER
-[22Dec2024 18:48:32.880] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 18:48:32.882] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 18:48:32.884] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 18:48:32.885] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 18:48:33.112] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[22Dec2024 18:48:33.489] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
-[22Dec2024 18:48:34.718] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
-[22Dec2024 18:48:35.493] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Dec2024 18:48:35.600] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[22Dec2024 18:48:35.737] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2024 18:48:35.759] [main/INFO] [Puzzles Lib/]: Loading 37 mods:
+[23Dec2024 18:21:28.013] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[23Dec2024 18:21:28.019] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[23Dec2024 18:21:28.622] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Dec2024 18:21:28.629] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[23Dec2024 18:21:28.653] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[23Dec2024 18:21:28.670] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[23Dec2024 18:21:28.708] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/volvernormal2/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23137%23140!/ Service=ModLauncher Env=SERVER
+[23Dec2024 18:21:28.965] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 18:21:28.967] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 18:21:28.969] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 18:21:28.970] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 18:21:29.171] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[23Dec2024 18:21:29.471] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
+[23Dec2024 18:21:30.668] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[23Dec2024 18:21:31.415] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Dec2024 18:21:31.512] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23Dec2024 18:21:31.658] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Dec2024 18:21:31.684] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
 	- aiimprovements 0.5.2
 	- appleskin 2.5.1+mc1.20.1
+	- balm 7.3.10
+		\-- kuma_api 20.1.9-SNAPSHOT
+	- comforts 6.4.0+1.20.1
+		\-- spectrelib 0.13.15+1.20.1
 	- connectormod 1.0.0-beta.46+1.20.1
 	- coroutil 1.20.1-1.3.7
 	- creativecore 2.12.25
 	- cupboard 1.20.1-2.7
+	- curios 5.11.0+1.20.1
 	- dragonfight 1.20.1-4.6
 	- dungeoncrawl 2.3.14
 	- dynamictrees 1.20.1-1.3.6
@@ -52,73 +57,74 @@
 	- sophisticatedbackpacks 3.20.5.1044
 	- sophisticatedcore 0.6.22.611
 	- toughasnails 0.0NONE
+	- waystones 14.1.6
 	- zombieawareness 1.20.1-1.13.1
-[22Dec2024 18:48:35.783] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2024 18:48:36.177] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
-[22Dec2024 18:48:36.178] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder from mod justleveling
-[22Dec2024 18:48:37.118] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[22Dec2024 18:48:37.215] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[22Dec2024 18:48:46.879] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[22Dec2024 18:48:47.151] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[22Dec2024 18:48:47.276] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[22Dec2024 18:48:47.295] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[22Dec2024 18:48:47.446] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[22Dec2024 18:48:47.716] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[22Dec2024 18:48:47.785] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Dec2024 18:48:47.786] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Dec2024 18:48:47.838] [modloading-worker-0/INFO] [com.alcatrazescapee.notreepunching.NoTreePunching/]: I tried to punch tree. It didn't work, my hands are now covered in blood and splinters. Need to try something else ...
-[22Dec2024 18:48:48.806] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
-[22Dec2024 18:48:48.807] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
-[22Dec2024 18:48:50.413] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[22Dec2024 18:48:50.417] [Thread-4/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[22Dec2024 18:48:50.512] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[22Dec2024 18:48:50.615] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[22Dec2024 18:48:50.629] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
-[22Dec2024 18:48:50.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[22Dec2024 18:48:50.986] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loading NoTreePunching Config
-[22Dec2024 18:48:51.016] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loaded NoTreePunching Config
-[22Dec2024 18:48:51.141] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[22Dec2024 18:48:51.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[22Dec2024 18:48:51.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[22Dec2024 18:48:51.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[22Dec2024 18:48:51.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[22Dec2024 18:48:51.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.6 Target: null
-[22Dec2024 18:48:51.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[22Dec2024 18:48:51.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[22Dec2024 18:48:51.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[22Dec2024 18:48:51.227] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[22Dec2024 18:48:51.249] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[22Dec2024 18:48:51.288] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
-[22Dec2024 18:48:51.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[22Dec2024 18:48:51.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[22Dec2024 18:48:51.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[22Dec2024 18:48:51.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[22Dec2024 18:48:51.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[22Dec2024 18:48:51.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[22Dec2024 18:48:51.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[22Dec2024 18:48:51.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Dec2024 18:48:51.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[22Dec2024 18:48:51.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[22Dec2024 18:48:51.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.3.6 Target: null
-[22Dec2024 18:48:51.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[22Dec2024 18:48:51.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[22Dec2024 18:48:54.211] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Dec2024 18:48:55.354] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[22Dec2024 18:48:55.354] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[22Dec2024 18:48:58.506] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[23Dec2024 18:21:31.708] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Dec2024 18:21:32.032] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
+[23Dec2024 18:21:32.033] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder from mod justleveling
+[23Dec2024 18:21:32.912] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[23Dec2024 18:21:32.994] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[23Dec2024 18:21:39.706] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[23Dec2024 18:21:39.838] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[23Dec2024 18:21:40.084] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[23Dec2024 18:21:40.163] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[23Dec2024 18:21:40.223] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[23Dec2024 18:21:40.280] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[23Dec2024 18:21:40.381] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[23Dec2024 18:21:40.383] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[23Dec2024 18:21:40.385] [modloading-worker-0/INFO] [com.alcatrazescapee.notreepunching.NoTreePunching/]: I tried to punch tree. It didn't work, my hands are now covered in blood and splinters. Need to try something else ...
+[23Dec2024 18:21:40.901] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[23Dec2024 18:21:40.901] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[23Dec2024 18:21:41.860] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[23Dec2024 18:21:42.037] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[23Dec2024 18:21:42.061] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[23Dec2024 18:21:42.068] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[23Dec2024 18:21:42.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[23Dec2024 18:21:42.240] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loading NoTreePunching Config
+[23Dec2024 18:21:42.258] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loaded NoTreePunching Config
+[23Dec2024 18:21:42.313] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23Dec2024 18:21:42.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[23Dec2024 18:21:42.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[23Dec2024 18:21:42.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[23Dec2024 18:21:42.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[23Dec2024 18:21:42.366] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[23Dec2024 18:21:42.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.6 Target: null
+[23Dec2024 18:21:42.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[23Dec2024 18:21:42.373] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23Dec2024 18:21:42.375] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[23Dec2024 18:21:42.376] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[23Dec2024 18:21:42.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[23Dec2024 18:21:42.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[23Dec2024 18:21:42.668] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[23Dec2024 18:21:42.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[23Dec2024 18:21:42.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[23Dec2024 18:21:42.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[23Dec2024 18:21:42.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[23Dec2024 18:21:42.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[23Dec2024 18:21:42.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[23Dec2024 18:21:42.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Dec2024 18:21:42.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[23Dec2024 18:21:42.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[23Dec2024 18:21:42.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.3.6 Target: null
+[23Dec2024 18:21:42.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[23Dec2024 18:21:42.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[23Dec2024 18:21:44.433] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Dec2024 18:21:45.284] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/assets/.mcassetsroot' uses unexpected schema
+[23Dec2024 18:21:45.285] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvernormal2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/data/.mcassetsroot' uses unexpected schema
+[23Dec2024 18:21:47.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
-	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
-	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23184!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
@@ -132,70 +138,129 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Dec2024 18:48:58.524] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[22Dec2024 18:48:58.661] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1497 advancements
-[22Dec2024 18:48:58.669] [main/INFO] [Dungeon Crawl/]: Loading data...
-[22Dec2024 18:48:59.081] [main/INFO] [Dungeon Crawl/]: Done.
-[22Dec2024 18:49:00.027] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[22Dec2024 18:49:00.213] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 15 milliseconds
-[22Dec2024 18:49:00.214] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
-[22Dec2024 18:49:00.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Dec2024 18:49:00.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Dec2024 18:49:00.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Dec2024 18:49:00.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Dec2024 18:49:00.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Dec2024 18:49:00.985] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Dec2024 18:49:01.113] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Dec2024 18:49:01.113] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Dec2024 18:49:01.114] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Dec2024 18:49:01.114] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Dec2024 18:49:01.140] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[22Dec2024 18:49:01.143] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[22Dec2024 18:49:01.144] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[22Dec2024 18:49:01.157] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[22Dec2024 18:49:01.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Dec2024 18:49:06.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Dec2024 18:49:11.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.746] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.793] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.799] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.810] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.847] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.864] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.865] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.866] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:11.905] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:12.143] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:12.644] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:13.141] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:13.646] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 18:49:14.140] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[22Dec2024 18:49:14.646] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[22Dec2024 18:49:14.806] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8167 ms
-[22Dec2024 18:49:14.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.676s)! For help, type "help"
-[22Dec2024 18:49:14.870] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Dec2024 18:49:14.882] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
-[22Dec2024 18:49:23.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.211.96.2:55911] logged in with entity id 80 at (-291.50907018409936, 99.0, 3183.1972315493394)
-[22Dec2024 18:49:24.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
-[22Dec2024 18:49:24.207] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
-[22Dec2024 18:49:27.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
-[22Dec2024 19:00:38.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:57351] logged in with entity id 1296 at (215.32926974109824, 13.0, 8.371741689681661)
-[22Dec2024 19:00:38.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[22Dec2024 19:00:38.409] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
-[22Dec2024 19:01:08.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Timed out
-[22Dec2024 19:01:08.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
-[22Dec2024 19:01:46.701] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@329f3da0[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:60063) lost connection: Disconnected
-[22Dec2024 19:01:57.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:40621] logged in with entity id 1573 at (215.32926974109824, 13.0, 8.371741689681661)
-[22Dec2024 19:01:57.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[22Dec2024 19:01:57.103] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
-[22Dec2024 19:12:22.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Player: Tycyone1]
-[22Dec2024 19:12:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Player Difficulty: 16.9 / 250.0]
-[22Dec2024 19:12:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Area Difficulty: 17.6 / 250.0 (Distance and Time)]
-[22Dec2024 19:12:40.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=237, y=2, z=20} BlockPos{x=235, y=2, z=19}
-[22Dec2024 19:14:04.425] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
-[22Dec2024 19:15:01.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
-[22Dec2024 19:15:01.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
-[22Dec2024 19:15:23.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:44687] logged in with entity id 7775 at (227.46418719652374, 4.0, -27.437528986886978)
-[22Dec2024 19:15:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[22Dec2024 19:15:23.504] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[23Dec2024 18:21:47.533] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[23Dec2024 18:21:47.626] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1530 advancements
+[23Dec2024 18:21:47.649] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[23Dec2024 18:21:47.659] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[23Dec2024 18:21:47.662] [main/INFO] [Dungeon Crawl/]: Loading data...
+[23Dec2024 18:21:47.964] [main/INFO] [Dungeon Crawl/]: Done.
+[23Dec2024 18:21:48.791] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[23Dec2024 18:21:48.886] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 8 milliseconds
+[23Dec2024 18:21:48.887] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[23Dec2024 18:21:48.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Dec2024 18:21:48.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Dec2024 18:21:48.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Dec2024 18:21:48.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Dec2024 18:21:48.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Dec2024 18:21:49.022] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Dec2024 18:21:49.120] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Dec2024 18:21:49.121] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Dec2024 18:21:49.121] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Dec2024 18:21:49.121] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Dec2024 18:21:49.143] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[23Dec2024 18:21:49.144] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[23Dec2024 18:21:49.146] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[23Dec2024 18:21:49.146] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[23Dec2024 18:21:49.148] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[23Dec2024 18:21:49.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Dec2024 18:21:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Dec2024 18:21:57.904] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:57.943] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:57.951] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:57.958] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:57.965] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:57.988] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:57.999] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:58.011] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:58.018] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:58.028] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:58.342] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:58.836] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 18:21:59.337] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[23Dec2024 18:21:59.836] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[23Dec2024 18:21:59.975] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6640 ms
+[23Dec2024 18:21:59.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.841s)! For help, type "help"
+[23Dec2024 18:22:00.000] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Dec2024 18:22:00.005] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[23Dec2024 18:22:38.411] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15772835[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:54641) lost connection: Disconnected
+[23Dec2024 18:22:58.806] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bf09444[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:35567) lost connection: Disconnected
+[23Dec2024 18:23:00.706] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4eea6181[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:50297) lost connection: Disconnected
+[23Dec2024 18:24:07.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@152f5bd6[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:51055) lost connection: Disconnected
+[23Dec2024 18:24:15.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:52195] logged in with entity id 82 at (-1425.4311113772008, 67.0, 354.0630775654096)
+[23Dec2024 18:24:16.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[23Dec2024 18:24:16.068] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[23Dec2024 18:26:14.064] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem has died
+[23Dec2024 18:27:55.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Voluntary Exile]
+[23Dec2024 18:29:26.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:44163] logged in with entity id 2195 at (-2365.762499988079, 64.0, 1938.6743602933611)
+[23Dec2024 18:29:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[23Dec2024 18:29:26.740] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[23Dec2024 18:29:28.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[23Dec2024 18:29:36.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> weee tycyoneee}
+[23Dec2024 18:29:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> tay loco }
+[23Dec2024 18:30:25.728] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Tycyone1
+[23Dec2024 18:31:10.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> culia
+[23Dec2024 18:32:38.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Spooks al habla
+[23Dec2024 18:32:41.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Jujuuu
+[23Dec2024 18:32:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> dc
+[23Dec2024 18:32:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Ño
+[23Dec2024 18:32:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> bueeee
+[23Dec2024 18:33:10.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[23Dec2024 18:33:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[23Dec2024 18:33:22.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:44853] logged in with entity id 5040 at (-1470.1747333138005, 66.7531999805212, 265.09158066162786)
+[23Dec2024 18:33:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[23Dec2024 18:33:22.499] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[23Dec2024 18:33:36.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> spooken negro
+[23Dec2024 18:33:39.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> yo en unr ato voy
+[23Dec2024 18:33:40.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> que
+[23Dec2024 18:33:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> nose si el alejo viene
+[23Dec2024 18:33:47.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> apura hijo
+[23Dec2024 18:33:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> ami no me apurai
+[23Dec2024 18:34:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> >:cccc
+[23Dec2024 18:34:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> buee eduraso
+[23Dec2024 18:34:11.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[23Dec2024 18:34:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[23Dec2024 18:34:18.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:48747] logged in with entity id 5739 at (-1472.699999988079, 44.7531999805212, 269.30000001192093)
+[23Dec2024 18:34:18.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[23Dec2024 18:34:18.653] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[23Dec2024 18:34:40.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[23Dec2024 18:34:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[23Dec2024 18:34:50.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:44275] logged in with entity id 6237 at (-1452.023259473751, 65.162141421027, 269.7479719788495)
+[23Dec2024 18:34:50.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[23Dec2024 18:34:50.851] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[23Dec2024 18:35:25.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was shot by Pillager
+[23Dec2024 18:35:28.080] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Dec2024 18:35:28.080] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Dec2024 18:35:33.867] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem has died
+[23Dec2024 18:35:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> JAJAJAJ MALOYERO
+[23Dec2024 18:36:00.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6996, l='ServerLevel[world]', x=-1431.52, y=64.00, z=302.33] died, message: 'Weaponsmith was shot by Pillager'
+[23Dec2024 18:36:07.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> dormi negro
+[23Dec2024 18:36:11.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:12.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:12.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:13.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[23Dec2024 18:36:16.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> zaramay
+[23Dec2024 18:36:39.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[23Dec2024 18:36:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[23Dec2024 18:36:39.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Kicked Tycyone1: Kicked by an operator]
+[23Dec2024 18:36:39.439] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 18:36:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> q
+[23Dec2024 18:36:48.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:60715] logged in with entity id 7886 at (-1437.8313366432117, 64.73423560066871, 305.5867295013039)
+[23Dec2024 18:36:48.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[23Dec2024 18:36:48.403] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[23Dec2024 18:36:58.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Putaso toy en raid
+[23Dec2024 18:37:07.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> bueno te hice de dia
+[23Dec2024 18:37:17.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7903, l='ServerLevel[world]', x=-1428.70, y=64.00, z=281.01] died, message: 'Librarian was slain by Vindicator'
+[23Dec2024 18:37:25.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7926, l='ServerLevel[world]', x=-1435.93, y=62.00, z=303.55] died, message: 'Nitwit was slain by Zombie'
+[23Dec2024 18:37:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Ravager
+[23Dec2024 18:37:58.435] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Dec2024 18:37:58.436] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Dec2024 18:38:20.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9007, l='ServerLevel[world]', x=-1428.53, y=62.77, z=263.85] died, message: 'Librarian was slain by Zombie'
+[23Dec2024 18:39:38.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/8947, l='ServerLevel[world]', x=-1424.70, y=63.00, z=277.63] died, message: 'Librarian bled to death'
+[23Dec2024 18:39:43.029] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Tycyone1})
+[23Dec2024 18:39:55.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9043, l='ServerLevel[world]', x=-1436.20, y=65.00, z=281.39] died, message: 'Farmer was slain by Zombie Villager'
+[23Dec2024 18:40:15.614] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/8959, l='ServerLevel[world]', x=-1424.53, y=64.00, z=286.74] died, message: 'Librarian bled to death'
+[23Dec2024 18:40:24.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/9048, l='ServerLevel[world]', x=-1616.04, y=64.00, z=434.49] died, message: 'Fletcher was slain by Husk'
