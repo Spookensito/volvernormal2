@@ -3085,3 +3085,208 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [29Jan2025 17:43:34.885] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
 [29Jan2025 17:43:34.885] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
 [29Jan2025 17:43:34.926] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71b858fa[id=<null>,name=Spooken_YT,properties={},legacy=false] (/127.206.199.186:42841) lost connection: Disconnected
+[29Jan2025 18:00:29.896] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[29Jan2025 18:00:29.943] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[29Jan2025 18:00:29.944] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[29Jan2025 18:00:30.118] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[29Jan2025 18:00:30.118] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[29Jan2025 18:00:30.118] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[29Jan2025 18:00:30.287] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[29Jan2025 18:00:30.326] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[29Jan2025 18:00:30.327] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[29Jan2025 18:00:30.490] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[29Jan2025 18:00:30.491] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[29Jan2025 18:00:30.491] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[29Jan2025 18:00:35.628] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[29Jan2025 18:00:35.682] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[29Jan2025 18:00:35.712] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[29Jan2025 18:00:35.780] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Jan2025 18:00:35.794] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/NativeCodeLoader$Status
+[29Jan2025 18:00:35.811] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[29Jan2025 18:00:35.950] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d77a216
+[29Jan2025 18:00:36.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.206.199.186:49013] logged in with entity id 257 at (10.5, 75.0, 1.5)
+[29Jan2025 18:00:36.042] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[29Jan2025 18:00:36.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity$AttackMode
+[29Jan2025 18:00:36.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[29Jan2025 18:00:36.237] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[29Jan2025 18:00:36.243] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Ancient_Remnant_Entity$AttackMode
+[29Jan2025 18:00:36.247] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/KnightPhantom$Formation
+[29Jan2025 18:00:36.248] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[29Jan2025 18:00:36.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/common/DummyMobType
+[29Jan2025 18:00:36.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[29Jan2025 18:00:36.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[29Jan2025 18:00:36.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/AmethystGolem$AmethystGolemGoalState
+[29Jan2025 18:00:36.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[29Jan2025 18:00:36.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Spooken_YT
+[29Jan2025 18:00:36.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Spooken_YT
+[29Jan2025 18:00:36.391] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Spooken_YT
+[29Jan2025 18:00:36.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Spooken_YT
+[29Jan2025 18:00:36.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Spooken_YT
+[29Jan2025 18:00:36.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Spooken_YT
+[29Jan2025 18:00:36.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Spooken_YT
+[29Jan2025 18:00:36.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[29Jan2025 18:00:36.442] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[29Jan2025 18:00:36.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[29Jan2025 18:00:36.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[29Jan2025 18:00:36.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbteams/data/TeamRank
+[29Jan2025 18:00:36.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/serializer/json/JSONOptions$HoverEventValueMode
+[29Jan2025 18:00:36.799] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/serializer/json/JSONOptions$ShowItemHoverDataMode
+[29Jan2025 18:00:36.893] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/event/ClickEvent$Action
+[29Jan2025 18:00:36.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/format/TextDecoration
+[29Jan2025 18:00:36.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/ComponentIteratorFlag
+[29Jan2025 18:00:36.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/format/TextDecoration$State
+[29Jan2025 18:00:36.964] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/util/TriState
+[29Jan2025 18:00:37.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
+[29Jan2025 18:00:37.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundPlayerPositionPacket$RelativeArgument
+[29Jan2025 18:00:37.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tschipp/carryon/common/carry/CarryOnData$CarryType
+[29Jan2025 18:00:37.080] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] Spooken_YT first spawned. Set First Dragon to 1
+[29Jan2025 18:00:37.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[29Jan2025 18:00:37.111] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[29Jan2025 18:00:37.131] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[29Jan2025 18:00:37.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbteams/data/PrivacyMode
+[29Jan2025 18:00:37.619] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[29Jan2025 18:00:37.659] [Server thread/INFO] [structurize/]: New Server UUID 01c19405-34b4-459b-9345-ab515ce33ecd
+[29Jan2025 18:00:37.781] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
+[29Jan2025 18:00:38.101] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Spooken_YT...
+[29Jan2025 18:00:38.101] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[29Jan2025 18:00:38.102] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Jan2025 18:00:38.107] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Spooken_YT
+[29Jan2025 18:00:38.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[29Jan2025 18:00:38.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/Team$CollisionRule
+[29Jan2025 18:00:38.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[29Jan2025 18:00:38.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[29Jan2025 18:00:38.571] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: true
+[29Jan2025 18:00:39.285] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[29Jan2025 18:00:39.286] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[29Jan2025 18:00:41.365] [Worker-Main48/WARN] [ModernFix/]: The namespace aquamirae contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:00:41.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[29Jan2025 18:00:42.373] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[29Jan2025 18:00:42.417] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[29Jan2025 18:00:42.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/whisperwoods/entity/EntityZotzpyre$SwoopingAttackGoal$MovementPhase
+[29Jan2025 18:00:45.985] [Worker-Main48/WARN] [ModernFix/]: The namespace wabi_sabi_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:00:51.167] [Worker-Main50/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:00:51.220] [Worker-Main50/WARN] [ModernFix/]: The namespace undead_unleashed contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:01:07.004] [Worker-Main51/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:01:12.184] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:01:12.424] [Worker-Main51/WARN] [ModernFix/]: The namespace bygonenether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:01:18.293] [Worker-Main51/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/Team$Visibility
+[29Jan2025 18:01:18.306] [Worker-Main51/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[29Jan2025 18:01:20.934] [Worker-Main50/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[29Jan2025 18:02:11.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[29Jan2025 18:02:22.999] [Worker-Main51/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:02:25.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[29Jan2025 18:02:26.606] [Worker-Main50/WARN] [ModernFix/]: The namespace forbidden_arcanus contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:03:02.159] [Worker-Main51/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:03:24.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[29Jan2025 18:03:24.243] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[29Jan2025 18:03:24.244] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[29Jan2025 18:03:24.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was slain by Wasp
+[29Jan2025 18:03:24.265] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Spooken_YT at X: 21.927806843469945, Y: 72.0, Z: -7.438383265607501
+[29Jan2025 18:03:29.344] [Worker-Main51/WARN] [ModernFix/]: The namespace nova_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:03:33.084] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Spooken_YT picking up: PermanentItemEntity['Extradimensional Vessel'/775, l='ServerLevel[world]', x=21.93, y=73.50, z=-7.44]
+[29Jan2025 18:03:33.084] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/775, l='ServerLevel[world]', x=21.93, y=73.50, z=-7.44]
+[29Jan2025 18:03:59.199] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[29Jan2025 18:04:08.044] [Worker-Main50/WARN] [ModernFix/]: The namespace awesomedungeonend contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:04:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Pic-A-Nic Basket?]
+[29Jan2025 18:04:14.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Is this... blood?]
+[29Jan2025 18:04:14.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was slain by Robbie the Sage
+[29Jan2025 18:04:14.634] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Spooken_YT at X: 38.78968910617748, Y: 64.0, Z: 73.8542688921526
+[29Jan2025 18:04:27.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[29Jan2025 18:04:56.488] [Worker-Main50/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:04:57.408] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:04:57.408] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:04:57.409] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:04:57.409] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:05:23.552] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[29Jan2025 18:06:35.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Rotten King]
+[29Jan2025 18:07:07.050] [Worker-Main50/WARN] [ModernFix/]: The namespace supplementaries contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:07:10.825] [Worker-Main50/WARN] [ModernFix/]: The namespace humancompanions contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:07:11.082] [Worker-Main48/WARN] [ModernFix/]: The namespace ars_elemental contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:07:11.605] [Worker-Main48/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:07:12.541] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Spooken_YT picking up: PermanentItemEntity['Extradimensional Vessel'/1042, l='ServerLevel[world]', x=38.79, y=65.50, z=73.85]
+[29Jan2025 18:07:12.541] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/1042, l='ServerLevel[world]', x=38.79, y=65.50, z=73.85]
+[29Jan2025 18:07:18.734] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[29Jan2025 18:07:20.836] [Worker-Main48/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[29Jan2025 18:07:20.839] [Worker-Main48/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[29Jan2025 18:07:39.734] [Worker-Main50/WARN] [ModernFix/]: The namespace bosses_of_mass_destruction contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:07:49.865] [Worker-Main48/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:07:55.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[29Jan2025 18:08:02.185] [Worker-Main50/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:08:07.444] [Worker-Main50/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:08:17.645] [Worker-Main48/WARN] [ModernFix/]: The namespace hopo contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:08:35.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[29Jan2025 18:08:35.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT fell from a high place
+[29Jan2025 18:08:35.215] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Spooken_YT at X: -10.300000011920929, Y: 59.0, Z: -250.57749376937926
+[29Jan2025 18:08:43.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=72, z=0} BlockPos{x=29, y=70, z=0}
+[29Jan2025 18:08:43.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=72, z=1} BlockPos{x=32, y=70, z=1}
+[29Jan2025 18:09:19.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/entity/ai/goal/ImprovedCrossbowGoal$CrossbowState
+[29Jan2025 18:09:23.689] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[29Jan2025 18:09:52.909] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:09:52.910] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:09:52.910] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:09:52.910] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:00.341] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:01.663] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:01.663] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:01.664] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:01.664] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:01.667] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:01.667] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:01.667] [Worker-Main48/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29Jan2025 18:10:05.608] [Worker-Main48/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[29Jan2025 18:10:20.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -0.4729486740145603,-1.1708129081422953,-10.250887242020838
+[29Jan2025 18:10:25.752] [Worker-Main48/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:10:27.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[29Jan2025 18:10:30.867] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[29Jan2025 18:10:35.529] [Worker-Main48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[29Jan2025 18:10:35.549] [Worker-Main48/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[29Jan2025 18:10:37.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[29Jan2025 18:10:39.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting auviotre/enigmatic/addon/contents/entities/goal/CrossbowBlazeAttackGoal$CrossbowState
+[29Jan2025 18:10:50.702] [Worker-Main48/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IBellConnections$BellConnection
+[29Jan2025 18:10:50.788] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=142, y=7, z=-652} but found not block entity block Block{minecraft:stone_bricks} at location
+[29Jan2025 18:10:50.788] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_bricks} but failed at location BlockPos{x=142, y=7, z=-652}
+[29Jan2025 18:10:52.683] [Worker-Main51/WARN] [ModernFix/]: The namespace betterfortresses contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:11:06.352] [Worker-Main49/WARN] [ModernFix/]: The namespace takesapillage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:11:07.919] [pool-11-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[29Jan2025 18:11:11.524] [Worker-Main49/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:11:14.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5064ms or 101 ticks behind
+[29Jan2025 18:11:14.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 3.461767305295183,-1.380023674395531,-9.630730640806576
+[29Jan2025 18:11:14.922] [Worker-Main51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[29Jan2025 18:11:29.754] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:11:29.755] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:11:29.755] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:11:29.755] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:11:29.755] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:11:29.755] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:11:29.755] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:11:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement ['X' Marks the Spot]
+[29Jan2025 18:11:31.073] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[29Jan2025 18:11:31.073] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md7f2443$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[29Jan2025 18:11:36.767] [Worker-Main49/WARN] [ModernFix/]: The namespace apotheosis contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:11:40.769] [Worker-Main49/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[29Jan2025 18:12:06.350] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:12:06.356] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:12:29.579] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:12:29.580] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:12:29.580] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:12:29.580] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:12:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Acquire Hardware]
+[29Jan2025 18:12:48.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 4.018098539337359,-0.7421414341400236,-9.464694688571058
+[29Jan2025 18:12:53.219] [Worker-Main50/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Jan2025 18:13:24.276] [Worker-Main50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[29Jan2025 18:13:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Monster Hunter]
+[29Jan2025 18:13:34.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Knight Quest]
+[29Jan2025 18:14:05.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Not a Diamond]
+[29Jan2025 18:14:38.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Apothic Affixes]
+[29Jan2025 18:14:38.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [I Found It Underground]
+[29Jan2025 18:14:47.656] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[29Jan2025 18:15:08.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [A breath of fresh air]
+[29Jan2025 18:15:26.344] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:15:26.345] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:15:26.345] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:15:26.345] [Worker-Main51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jan2025 18:16:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was slain by Botfly
+[29Jan2025 18:17:32.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Spooken_YT a server operator
+[29Jan2025 18:17:41.557] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[29Jan2025 18:17:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[29Jan2025 18:18:00.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set the time to 1000]

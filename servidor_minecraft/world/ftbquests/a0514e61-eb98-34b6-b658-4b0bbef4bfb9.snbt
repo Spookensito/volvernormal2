@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a0514e61eb9834b6b6584b0bbef4bfb9"
+	name: "Spooken_YT"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
